@@ -4,3 +4,4 @@ spring:
       uri: mongodb://user:password@localhost:27017/product_service
 test:
   name: name3
+  email: email
