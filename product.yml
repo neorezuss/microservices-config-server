@@ -3,4 +3,4 @@ spring:
     mongodb:
       uri: mongodb://user:password@localhost:27017/product_service
 test:
-  name: 'name.v3'
+  name: name3
